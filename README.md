@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -44,7 +43,7 @@
                 <p class="tecnologias">Tecnologías: Dart, Flutter</p>
                 <a href="https://appgallery.huawei.com/app/C108942927" class="tecnologias">https://appgallery.huawei.com/app/C108942927</a>
             </div>
-            <img width="150" src="https://appimg2.dbankcdn.com/application/screenshut1/10119/37e659ba9a54416f8118813ee1ec41e9.jpg" alt="Proyecto 1">
+            <img width="150px" src="https://appimg2.dbankcdn.com/application/screenshut1/10119/37e659ba9a54416f8118813ee1ec41e9.jpg" alt="Proyecto 1">
         </div>
 
         <div class="proyecto">
